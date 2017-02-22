@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NeuralMaths</string>
+    <string name="photo">Photo</string>
+    <string name="Ecrire">Écrire</string>
+    <string name="clavier">Clavier</string>
+    <string name="parametres">Paramètres</string>
+    <string name="acceuil">Acceuil</string>
+    <string name="layout">Layout</string>
+    <string name="langue">Langue</string>
+    <string name="mode_par_defaut">Mode par défaut</string>
+    <string name="gaucher">Gaucher</string>
+    <string name="droitier">Droitier</string>
+    <string name="francais">Français</string>
+    <string name="english">English</string>
+</resources>
